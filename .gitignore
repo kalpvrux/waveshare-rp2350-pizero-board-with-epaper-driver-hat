@@ -1,0 +1,23 @@
+# Arduino CLI build artifacts
+build/
+
+# VS Code
+.vscode/
+
+# Local configuration
+.clangd
+
+# Compiled binaries
+*.bin
+*.elf
+*.uf2
+*.map
+*.hex
+
+# Dependency and cache files
+libraries.cache
+includes.cache
+
+# Other
+debug.bat
+rp2350_pizero_detailed_info.txt
